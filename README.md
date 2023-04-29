@@ -5,7 +5,7 @@ A passionate backend developer from Warsaw, Poland
 --------------------------------------------------
 
 * 🌍  I'm based in Warsaw, Poland
-* 🧠  I'm learning Golang
+* 🧠  I'm currently learning Golang
 
 ### Skills
 
