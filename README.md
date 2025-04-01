@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🧠  Interested in distributed systems and scalable solutions
 * 🌍  Based in Warsaw, Poland
-
+* 🚀 Currently focused on professional projects and personal growth outside of GitHub
 ### Skills
 
 
